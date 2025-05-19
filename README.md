@@ -1,0 +1,2 @@
+This is a simple Todo app built with React, based on a tutorial by [YouTube tutorial by Smoljames](https://www.youtube.com/watch?v=iKpkVKubvKk)
+All the CSS styles were pre-written as part of the starter project.
